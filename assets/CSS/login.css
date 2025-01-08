@@ -213,5 +213,9 @@
 
     .cadastro > a {
         font-size: 12px;
+        color: #E0F7FA;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px #000000;
+
     }
 }
