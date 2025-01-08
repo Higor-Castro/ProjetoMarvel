@@ -268,7 +268,7 @@
         left: 50%;
         transform: translateX(-50%); 
     }
-    .card-details    .img-diferente{
+    .card-details .img-diferente{
         width: 200px;
         top: 10px;
         left: 50%;
@@ -284,6 +284,11 @@
     }
 
     .card-details h2 {
+        font-size: 20px;
+        text-align: center;
+        margin: 318px auto 10px;
+    }
+    .card-details .h2-diferente {
         font-size: 20px;
         text-align: center;
         margin: 318px auto 10px;
