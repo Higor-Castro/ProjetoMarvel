@@ -20,4 +20,4 @@ Este projeto tem como objetivo criar uma página interativa que exibe informaç�
 
 1. Clone este repositório:
    ```bash
-https://github.com/Higor-Castor/Marvel.git
+https://github.com/Higor-Castor/Marvel-Web.git
