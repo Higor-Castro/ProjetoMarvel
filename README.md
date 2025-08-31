@@ -18,6 +18,19 @@ Este projeto tem como objetivo criar uma página interativa que exibe informaç�
 
 ## Como Rodar o Projeto
 
-1. Clone este repositório:
-   ```bash
-https://github.com/Higor-Castor/Marvel-Web.git
+### 1. Clone o repositório para sua máquina local:
+
+Escolha o método que preferir para clonar o repositório!
+
+#### 💻 Usando **SSH** (se você configurou suas chaves SSH no GitHub):
+Se você preferir usar **SSH**, execute o seguinte comando:
+
+```bash
+git@github.com:Higor-Castro/ProjetoMarvel.git
+```
+
+#### 💻 Usando **HTTPS** (se você não configurou suas chaves SSH no GitHub):
+Se você preferir usar **HTTPS**, execute o seguinte comando:
+
+```bash
+[git clone https://github.com/Higor-Castor/Estudos.git](https://github.com/Higor-Castro/ProjetoMarvel.git)
