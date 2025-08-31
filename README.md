@@ -33,4 +33,4 @@ git clone git@github.com:Higor-Castro/ProjetoMarvel.git
 Se você preferir usar **HTTPS**, execute o seguinte comando:
 
 ```bash
-[git clone https://github.com/Higor-Castor/Estudos.git](https://github.com/Higor-Castro/ProjetoMarvel.git)
+git clone https://github.com/Higor-Castro/ProjetoMarvel.git
