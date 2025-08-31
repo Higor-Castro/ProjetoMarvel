@@ -26,7 +26,7 @@ Escolha o método que preferir para clonar o repositório!
 Se você preferir usar **SSH**, execute o seguinte comando:
 
 ```bash
-git@github.com:Higor-Castro/ProjetoMarvel.git
+git clone git@github.com:Higor-Castro/ProjetoMarvel.git
 ```
 
 #### 💻 Usando **HTTPS** (se você não configurou suas chaves SSH no GitHub):
